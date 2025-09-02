@@ -1,3 +1,4 @@
 distance = float(input("How many miles will you drive?"))
 speed = float(input("How fast (mph) will you drive?"))
 time = distance / speed
+print("It will take you int(time) hours to get there")
